@@ -75,8 +75,6 @@ class RedRoses extends Component {
     return {
       alignItems: "center",
       justifyContent: "center",
-      height: "100vh",
-      width: "100vw",
       display: "flex"
     };
   }
